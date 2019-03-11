@@ -15,7 +15,7 @@ Rūto means Root or Route in Japanese. Rūto assist to identify the selector fro
 * Right click on field (element) and click 'Add to Rūto' option
 * Click Rūto icon on extension bar
 * Copy your XPath
-### Are you struck? Don't worry!
+## Are you struck? Don't worry!
 Watch the video to know how to get started
 ## Did you find issue when using Ruto?
 Oh!yes. Your defect will add lot of value to Rūto. So please log your issue here (https://github.com/rutoXpath/Ruto/issues/new/choose)
