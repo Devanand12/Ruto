@@ -17,7 +17,7 @@ Rūto means Root or Route in Japanese. Rūto assist to identify the selector fro
 * Copy your XPath
 ## Are you struck? Don't worry!
 Watch the video to know how to get started
-[![Watch the video](https://raw.githubusercontent.com/rutoXpath/Ruto/master/ruto.png)](https://www.youtube.com/watch?v=vrH_dzC1hZ4)
+[![Watch the video](https://raw.githubusercontent.com/rutoXpath/Ruto/master/how%20to%20use.png)](https://www.youtube.com/watch?v=vrH_dzC1hZ4)
 ## Did you find issue when using Ruto?
 Oh!yes. Your defect will add lot of value to Rūto. So please log your issue here (https://github.com/rutoXpath/Ruto/issues/new/choose)
 We appreciate your time to log this defect.
