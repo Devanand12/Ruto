@@ -13,7 +13,7 @@ Rūto means Root or Route in Japanese. Rūto assist to identify the selector fro
 ## Get started with Rūto
 * Install Rūto - link
 * Right click on field (element) and click 'Add to Rūto' option
-* Click on Rūto icon on extension bar
+* Click Rūto icon on extension bar
 * Copy your XPath
 ### Are you struck? Don't worry!
 Watch the video to know how to get started
