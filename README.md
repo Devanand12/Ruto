@@ -4,6 +4,18 @@ Rūto means Root or Route in Japanese. Rūto assist to identify the selector fro
 ### Welcome to Rūto!
 
 ## XPath as follows:
+* Id
+* Link text
+* Partial Link text
+* Attribute based XPath
+* Collections based XPath
+* Contains - Attribute based XPath
+* ext based XPath
+* Contains text based XPath
+* Normalize text based XPath
+* Following element based XPath
+* Following-Sibling based XPath
+* Parent to element based XPath
 
 ## What Rūto will solve for you?
 * Build selector including 20+ XPath patterns
