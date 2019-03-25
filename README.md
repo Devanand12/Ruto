@@ -1,5 +1,4 @@
-![Rūto](https://raw.githubusercontent.com/rutoXpath/Ruto/master/ruto.png)
-[![Download](https://raw.githubusercontent.com/rutoXpath/Ruto/master/CS.png)](https://chrome.google.com/webstore/detail/ruto-beta/ilcoelkkcokgeeijnopjnolmmighnppp)
+[![Download](https://raw.githubusercontent.com/rutoXpath/Ruto/master/CS.png)](https://chrome.google.com/webstore/detail/ruto-beta/ilcoelkkcokgeeijnopjnolmmighnppp)![Rūto](https://raw.githubusercontent.com/rutoXpath/Ruto/master/ruto.png)
 [![Watch the video](https://raw.githubusercontent.com/rutoXpath/Ruto/master/how%20to%20use.png)](https://www.youtube.com/watch?v=vrH_dzC1hZ4)
 #
 Rūto means Root or Route in Japanese. Rūto assist to identify the selector from HTML DOM like id, name, xpath, especially XPath in 20+ different patterns as of today. That makes your test automation life lot more easier.
